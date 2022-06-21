@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T00:34:36.503Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5093.0 Safari/537.36" etag="mOxIlLYx0Gk2bqAyf2aB" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T02:34:17.131Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5093.0 Safari/537.36" etag="DqY4Q60Bs2AdPhPLdj8-" version="20.0.1" type="github">
   <diagram id="givH3kl9ryhQj4KlOiUC" name="Page-1">
-    <mxGraphModel dx="1598" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
+    <mxGraphModel dx="1394" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,18 +47,6 @@
         <mxCell id="degvUQ81yIcglxJupTP3-3" value="Resource Provider" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=8;strokeColor=default;strokeWidth=0.5;" parent="1" vertex="1">
           <mxGeometry x="143" y="-77" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iXi9pWHLpVJdPP4cGL9C-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.073;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="degvUQ81yIcglxJupTP3-4" target="EmZdWoWNg9iefI1Aj5C1-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="30" y="-97" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iXi9pWHLpVJdPP4cGL9C-3" value="worker heartbeat" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iXi9pWHLpVJdPP4cGL9C-2" vertex="1" connectable="0">
-          <mxGeometry x="-0.0094" y="1" relative="1" as="geometry">
-            <mxPoint x="-15" y="31" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="degvUQ81yIcglxJupTP3-4" value="Node" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=8;strokeColor=default;strokeWidth=0.5;" parent="1" vertex="1">
           <mxGeometry x="143" y="-110" width="40" height="25.5" as="geometry" />
         </mxCell>
@@ -84,13 +72,13 @@
           <mxGeometry x="-40" y="45" width="40" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ByBU07RrCaSleD2tIyLL-9" value="{" style="text;whiteSpace=wrap;html=1;fontColor=#999999;fontSize=61;fontStyle=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="135" width="40" height="90" as="geometry" />
+          <mxGeometry x="-40" y="115" width="40" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ByBU07RrCaSleD2tIyLL-10" value="componente principal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#999999;" parent="1" vertex="1">
-          <mxGeometry x="-206" y="80" width="170" height="20" as="geometry" />
+          <mxGeometry x="-210" y="80" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ByBU07RrCaSleD2tIyLL-12" value="componentes auxiliares" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#999999;" parent="1" vertex="1">
-          <mxGeometry x="-220" y="170" width="180" height="20" as="geometry" />
+          <mxGeometry x="-220" y="150" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ByBU07RrCaSleD2tIyLL-21" value="REST API" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=6;strokeColor=default;strokeWidth=0.5;" parent="1" vertex="1">
           <mxGeometry x="188" y="-17" width="40" height="7" as="geometry" />
